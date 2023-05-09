@@ -1,0 +1,22 @@
+:root { 
+  --black: #000000;
+  --old-lace: #fcf5e3;
+  --old-lace-2: #fcf6e4;
+ 
+  --font-size-l: 25px;
+  --font-size-m: 24px;
+  --font-size-s: 20px;
+  --font-size-xl: 30px;
+  --font-size-xxl: 38px;
+  --font-size-xxxl: 98px;
+ 
+  --font-family-kurale: "Kurale", Helvetica;
+  --font-family-montserrat: "Montserrat", Helvetica;
+}
+.kurale-normal-old-lace-25px {
+  color: var(--old-lace);
+  font-family: var(--font-family-kurale);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}

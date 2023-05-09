@@ -1,0 +1,353 @@
+/* screen - frame-17 */
+
+.frame-17 {
+  align-items: flex-start;
+  background-color: #d9a795;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  min-height: 1059px;
+  overflow-x: hidden;
+  width: 1512px;
+}
+
+.frame-17 .frame-13 {
+  display: flex;
+  height: 68px;
+  margin-left: 3.1px;
+  width: 709px;
+}
+
+.frame-17 .component-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 70px;
+  margin-left: 80px;
+  margin-top: 18px;
+  min-width: 1242px;
+}
+
+.frame-17 .hanan-jama-logos_transparent-1 {
+  height: 106px;
+  margin-left: -40px;
+  margin-top: -12px;
+  object-fit: cover;
+  width: 179px;
+}
+
+.frame-17 .about {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 15.0px;
+  margin-left: 161px;
+  min-height: 37px;
+  width: 67px;
+}
+
+.frame-17 .resume {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 15.0px;
+  margin-left: 47px;
+  min-height: 37px;
+  width: 114px;
+}
+
+.frame-17 .get-in-touch {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 15.0px;
+  min-height: 37px;
+  width: 168px;
+}
+
+.frame-17 .overlap-group {
+  height: 62px;
+  margin-left: 91px;
+  margin-top: -9px;
+  position: relative;
+  width: 90px;
+}
+
+.frame-17 .twitter {
+  align-items: flex-end;
+  display: flex;
+  height: 62px;
+  left: 0;
+  padding: 18.9px 15.6px;
+  position: absolute;
+  top: 0;
+  width: 59px;
+}
+
+.frame-17 .icon-twitter {
+  height: 24px;
+  width: 28px;
+}
+
+.frame-17 .icon-linkedin {
+  height: 28px;
+  left: 59px;
+  position: absolute;
+  top: 17px;
+  width: 31px;
+}
+
+.frame-17 .instagram {
+  align-items: flex-end;
+  display: flex;
+  height: 62px;
+  margin-top: -9px;
+  padding: 13.9px 13.3px;
+  width: 59px;
+}
+
+.frame-17 .icon-instagram {
+  height: 34px;
+  width: 32px;
+}
+
+.frame-17 .flex-row {
+  gap: 269px;
+  height: 542px;
+  margin-left: 46.04px;
+  margin-top: 103px;
+  min-width: 811px;
+}
+
+.frame-17 .frame-14 {
+  align-self: flex-end;
+  display: flex;
+  height: 499px;
+  width: 311px;
+}
+
+.frame-17 .group-1107 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  min-height: 517px;
+  width: 588px;
+}
+
+.frame-17 .flex-row-1 {
+  align-items: center;
+  display: flex;
+  gap: 18px;
+  margin-right: 8.0px;
+  min-width: 580px;
+}
+
+.frame-17 .overlap-group1 {
+  height: 410px;
+  position: relative;
+  width: 458px;
+}
+
+.frame-17 .im-hanan {
+  background-color: transparent;
+  border: 0;
+  color: var(--old-lace-2);
+  font-family: var(--font-family-kurale);
+  font-size: var(--font-size-xxxl);
+  font-weight: 400;
+  height: 145px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  padding: 0;
+  position: absolute;
+  top: 22px;
+  width: 458px;
+}
+
+.frame-17 .im-hanan::placeholder {
+  color: #fcf6e499;
+}
+
+.frame-17 .hello-there {
+  background-color: transparent;
+  border: 0;
+  color: var(--old-lace-2);
+  font-family: var(--font-family-kurale);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  height: 37px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  padding: 0;
+  position: absolute;
+  top: 0;
+  width: 160px;
+}
+
+.frame-17 .hello-there::placeholder {
+  color: #fcf6e499;
+}
+
+.frame-17 .ux-designer-researcher {
+  background-color: transparent;
+  border: 0;
+  color: var(--old-lace);
+  font-family: var(--font-family-kurale);
+  font-size: var(--font-size-xxl);
+  font-weight: 400;
+  height: 119px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  padding: 0;
+  position: absolute;
+  top: 163px;
+  width: 407px;
+}
+
+.frame-17 .ux-designer-researcher::placeholder {
+  color: #fcf5e399;
+}
+
+.frame-17 .im-a-user-experience {
+  background-color: transparent;
+  border: 0;
+  color: #ffffff;
+  font-family: var(--font-family-kurale);
+  font-size: var(--font-size-s);
+  font-weight: 400;
+  height: 155px;
+  left: 3px;
+  letter-spacing: 0;
+  line-height: normal;
+  padding: 0;
+  position: absolute;
+  top: 255px;
+  width: 455px;
+}
+
+.frame-17 .im-a-user-experience::placeholder {
+  color: #ffffff99;
+}
+
+.frame-17 .flex-col {
+  flex-direction: column;
+  gap: 94px;
+  margin-bottom: 75.0px;
+  min-height: 219px;
+  width: 104px;
+}
+
+.frame-17 .vector {
+  height: 36px;
+  width: 47px;
+}
+
+.frame-17 .group-1104 {
+  align-self: flex-end;
+  height: 89px;
+  width: 58px;
+}
+
+.frame-17 .overlap-group-1 {
+  align-items: flex-start;
+  background-color: var(--old-lace);
+  border-radius: 20px;
+  display: flex;
+  gap: 15px;
+  height: 75px;
+  justify-content: flex-end;
+  margin-right: 155.0px;
+  min-width: 213px;
+  padding: 15px 27.9px;
+}
+
+.frame-17 .title {
+  color: #005b47;
+  font-family: var(--font-family-kurale);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 44px;
+  min-width: 103px;
+}
+
+.frame-17 .vector-1 {
+  align-self: center;
+  height: 15px;
+  margin-bottom: 1.08px;
+  width: 14px;
+}
+
+.frame-17 .overlap-group2 {
+  height: 414px;
+  position: relative;
+  width: 231px;
+}
+
+.frame-17 .group-1103 {
+  height: 86px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 32px;
+}
+
+.frame-17 .x100_0511-1 {
+  height: 393px;
+  left: 30px;
+  object-fit: cover;
+  position: absolute;
+  top: 21px;
+  width: 201px;
+}
+
+.frame-17 .overlap-group3 {
+  height: 212px;
+  margin-top: 173px;
+  position: relative;
+  width: 2130px;
+}
+
+.frame-17 .rectangle-10 {
+  background-color: var(--old-lace-2);
+  height: 212px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1512px;
+}
+
+.frame-17 .lets-chat-le {
+  color: var(--black);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-m);
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 35px;
+  width: 2130px;
+}
+
+.frame-17 .hananjamaaagmailcom-linked-in {
+  color: var(--black);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-m);
+  font-weight: 700;
+  left: 597px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 70px;
+}
+
+.frame-17 .flex {
+  align-items: flex-start;
+  display: flex;
+}
